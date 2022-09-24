@@ -91,6 +91,7 @@ Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
 - Setelah didapat IP lalu gunakan capture filter `src host <IP>` dengan IP yang didapat sebelumnya
 - Paket yang berasal dari IP tersebut akan terfilter
 ### Screenshot Pengerjaan
+![image](https://user-images.githubusercontent.com/85059763/192098296-38a8eb4b-2905-416d-b444-e81c1964684c.png)
 <img width="722" alt="image" src="https://user-images.githubusercontent.com/77829361/192097903-75b6d4cd-ca58-48f3-a354-6557f3cff1e1.png">
 
 ## Soal 8-10
