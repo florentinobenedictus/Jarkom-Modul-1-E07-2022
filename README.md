@@ -64,6 +64,14 @@ Filter sehingga wireshark hanya menampilkan paket yang menuju ke lipi.go.id !
 <img width="1113" alt="Screen Shot 2022-09-19 at 20 20 15" src="https://user-images.githubusercontent.com/103361498/192000233-706322d0-b8fa-4f3a-9190-d38b7bbec5e7.png">
 
 ## Soal 7
+Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
+### Jawaban
+- Buka terminal lalu lakukan Ipconfig untuk mendapatkan alamat ip
+- Setelah didapat Ip lalu lakukan capture wifi dengan capture filter src host dengan ip yang didapat sebelumnya
+- paket yang berasal dari ip akan terfilter
+### Screenshot Pengerjaan
+
+
 
 
 ## Soal 8-10
