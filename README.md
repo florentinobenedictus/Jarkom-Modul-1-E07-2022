@@ -87,7 +87,7 @@ Terdapat laporan adanya pertukaran file yang dilakukan oleh kedua mahasiswa dala
 ![image](https://user-images.githubusercontent.com/85059763/192078538-846c1e4e-a417-425e-9179-e1d67cb8b331.png)
 - Akan tetapi, data perlu diubah dengan Show data as Raw karena jika menggunakan ASCII terdapat data loss
 ![image](https://user-images.githubusercontent.com/85059763/192078564-bb7aceda-4f9c-4264-a25f-fdda4a40403a.png)
-- Save file dengan nama `E07.des3` sesuai format dari soal. Lalu gunakan openssl dengan `openssl des3 -d -in E07.des3 -out flag.txt` agar nama output file sesuai dengan ketentuan soal.
+- Save file dengan nama `E07.des3` sesuai format dari soal. Lalu [gunakan openssl](https://osxdaily.com/2012/01/30/encrypt-and-decrypt-files-with-openssl/) dengan `openssl des3 -d -in E07.des3 -out flag.txt` agar nama output file sesuai dengan ketentuan soal.
 ![image](https://user-images.githubusercontent.com/85059763/192078631-a023376f-7e9d-4b12-b0e9-9243ebbc9913.png)
 - Karena diminta decryption password maka clue password dicari di internet dengan keyword `karakter anime kembar lima` sampai ditemukan [halaman database](https://myanimelist.net/anime/38101/5-Toubun_no_Hanayome/) yang berisi nama karakter
 ![image](https://user-images.githubusercontent.com/85059763/192078773-1ccb22fe-6958-466d-92ec-d4412f57f6bc.png)
