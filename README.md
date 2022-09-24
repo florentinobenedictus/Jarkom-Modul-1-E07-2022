@@ -1,4 +1,29 @@
 # Jarkom-Modul-1-E07-2022
+| Nama                        | NRP        |
+|:---------------------------:|:----------:|
+| Arya Nur Razzaq             | 5025201102 |
+| Florentino Benedictus       | 5025201222 |
+| Muhammad Zufarrifqi Prakoso | 5025201276 |
+
+#### [Soal](#soal)
+- [Soal 1](#soal-1)
+- [Soal 2](#soal-2)
+- [Soal 3](#soal-3)
+- [Soal 4](#soal-4)
+- [Soal 5](#soal-5)
+- [Soal 6](#soal-6)
+- [Soal 7](#soal-7)
+- [Soal 8](#soal-8)
+- [Soal 9](#soal-9)
+- [Soal 10](#soal-10)
+#### [Resource Soal](Resources)
+#### [Pembagian Tugas](#pembagian-tugas-1)
+#### [Kendala](#kendala-1)
+
+## Soal 1
+
+## Soal 2
+
 ## Soal 3
 Filter sehingga wireshark hanya menampilkan paket yang menuju port 80!
 ### Jawaban
@@ -36,3 +61,23 @@ Filter sehingga wireshark hanya menampilkan paket yang menuju ke lipi.go.id !
 ### Screenshot Pengerjaan
 <img width="563" alt="Screen Shot 2022-09-23 at 22 39 06" src="https://user-images.githubusercontent.com/103361498/192000188-5627841a-839e-415a-b2c5-a095d1a6f5c9.png">
 <img width="1113" alt="Screen Shot 2022-09-19 at 20 20 15" src="https://user-images.githubusercontent.com/103361498/192000233-706322d0-b8fa-4f3a-9190-d38b7bbec5e7.png">
+
+## Soal 7
+
+## Soal 8
+
+## Soal 9
+
+## Soal 10
+
+
+## Pembagian Tugas
+| Nama                        | Nomor      |
+|:---------------------------:|:----------:|
+| Arya Nur Razzaq             | 3, 4, 5, 6 |
+| Florentino Benedictus       | 8, 9, 10   |
+| Muhammad Zufarrifqi Prakoso | 1, 2, 7    |
+
+## Kendala
+Tidak ada
+
