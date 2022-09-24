@@ -87,12 +87,10 @@ Filter sehingga wireshark hanya menampilkan paket yang menuju ke lipi.go.id !
 ## Soal 7
 Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
 ### Jawaban
-- Buka terminal lalu lakukan Ipconfig untuk mendapatkan alamat ip
-- Setelah didapat Ip lalu lakukan capture wifi dengan capture filter src host dengan ip yang didapat sebelumnya
-- paket yang berasal dari ip akan terfilter
+- Buka terminal lalu lakukan `ipconfig` untuk mendapatkan alamat IP
+- Setelah didapat IP lalu lakukan capture wifi dengan capture filter `src host <IP>` dengan IP yang didapat sebelumnya
+- paket yang berasal dari IP tersebut akan terfilter
 ### Screenshot Pengerjaan
-
-
 
 
 ## Soal 8-10
