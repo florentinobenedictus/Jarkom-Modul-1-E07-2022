@@ -91,7 +91,7 @@ Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
 - Setelah didapat IP lalu gunakan capture filter `src host <IP>` dengan IP yang didapat sebelumnya
 - Paket yang berasal dari IP tersebut akan terfilter
 ### Screenshot Pengerjaan
-
+<img width="722" alt="image" src="https://user-images.githubusercontent.com/77829361/192097903-75b6d4cd-ca58-48f3-a354-6557f3cff1e1.png">
 
 ## Soal 8-10
 Di sebuah planet bernama Viltrumite, terdapat Kementerian Komunikasi dan Informatika yang baru saja menetapkan kebijakan baru. Dalam kebijakan baru tersebut, pemerintah dapat mengakses data pribadi masyarakat secara bebas jika memang dibutuhkan, baik dengan maupun tanpa persetujuan pihak yang bersangkutan. Sebagai mahasiswa yang sedang melaksanakan program magang di kementerian tersebut, kalian mendapat tugas berupa penyadapan percakapan mahasiswa yang diduga melakukan tindak kecurangan dalam kegiatan Praktikum Komunikasi Data dan Jaringan Komputer 2022. Selain itu, terdapat sebuah password rahasia (flag) yang diduga merupakan milik sebuah organisasi bawah tanah yang selama ini tidak sejalan dengan pemerintahan Planet Viltrumite. Tunggu apa lagi, segera kerjakan tugas magang tersebut agar kalian bisa mendapatkan pujian serta kenaikan jabatan di kementerian tersebut!
