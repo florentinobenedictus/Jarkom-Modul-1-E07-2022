@@ -19,11 +19,32 @@
     - [Soal 10](#soal-10)
 #### [Resource Soal](Resources)
 #### [Pembagian Tugas](#pembagian-tugas-1)
+#### [Revisi](#revisi-1)
 #### [Kendala](#kendala-1)
 
 ## Soal 1
+Sebutkan web server yang digunakan pada "monta.if.its.ac.id"!
+### Jawaban
+- Gunakan display filter `http.host == monta.if.its.ac.id` lalu follow TCP stream salah satu paket
+![image](https://user-images.githubusercontent.com/85059763/192096083-3ff7bbe1-39c7-4814-bb8a-8d68d58c6016.png)
+- DItemukan server yang digunakan `nginx/1.10.3`
 
 ## Soal 2
+Ishaq sedang bingung mencari topik ta untuk semester ini , lalu ia datang ke website monta dan menemukan detail topik pada website “monta.if.its.ac.id” , judul TA apa yang dibuka oleh ishaq ?
+### Jawaban
+- Gunakan display filter `http.host == "monta.if.its.ac.id" and http contains "monta" and http contains "detail"` lalu follow TCP stream paket yang terletak paling atas
+![image](https://user-images.githubusercontent.com/85059763/192096355-3bc87271-dfb4-4336-950c-675ddeab152a.png)
+- Selanjutnya show data as raw, lalu save dengan ekstensi `.rar` atau `.zip`
+![image](https://user-images.githubusercontent.com/85059763/192096458-1164ece7-382a-4ddc-b040-2aa55465679d.png)
+- Extract file menggunakan winrar
+![image](https://user-images.githubusercontent.com/85059763/192096483-c06433df-701e-4c74-be26-2143183357b4.png)
+- Ditemukan sebuah file tanpa ekstensi, lalu setelah coba dibuka dengan notepad++, file tersebut memiliki format file `.html`
+![image](https://user-images.githubusercontent.com/85059763/192096552-11811de1-c76f-47ca-9270-acce6ccae1b0.png)
+- Tambahkan ekstensi `.html` pada file tersebut, lalu dibuka pada browser
+![image](https://user-images.githubusercontent.com/85059763/192096578-b47fb27f-6ed2-4d86-beb8-63f527ac7810.png)
+- Ditemukan judul TA `Perancangan Sistem Pengendali Panas Otomatis pada
+Mesin Sangrai Kopi dengan Logika Fuzzy`
+![image](https://user-images.githubusercontent.com/85059763/192096594-d9518a50-1806-4762-8df3-584ff0721dce.png)
 
 ## Soal 3
 Filter sehingga wireshark hanya menampilkan paket yang menuju port 80!
@@ -117,6 +138,9 @@ Flag yang ditemukan adalah `JaRkOm2022{8uK4N_CtF_k0k_h3h3h3}`
 | Arya Nur Razzaq             | 3, 4, 5, 6 |
 | Florentino Benedictus       | 8, 9, 10   |
 | Muhammad Zufarrifqi Prakoso | 1, 2, 7    |
+
+## Revisi
+Tidak ada
 
 ## Kendala
 Tidak ada
